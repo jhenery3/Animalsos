@@ -8,7 +8,7 @@
 
 /*
 |--------------------------------------------------------------------------
-| Register The Auto Loader
+| JHENERY
 |--------------------------------------------------------------------------
 |
 | Composer provides a convenient, automatically generated class loader
